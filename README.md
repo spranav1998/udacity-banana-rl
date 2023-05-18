@@ -32,6 +32,6 @@ $ jupyter notebook
 This will open the Jupyter Notebook software and notebook in your browser, enabling you to explore and reproduce the experiments that have been run.
 
 References
-Schaul, T., Quan, J., Antonoglou, I., & Silver, D. Prioritized Experience Replay. arXiv.org, 2015.
-Van Hasselt, H., Guez, A., & AAAI, D. S. Deep Reinforcement Learning with Double Q-Learning. Aaai.org, 2016.
-Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., et al. Human-level control through deep reinforcement learning. Nature, 52015.
+Schaul, T., Quan, J., Antonoglou, I., & Silver, D. Prioritized Experience Replay. arXiv.org, 2015.  
+Van Hasselt, H., Guez, A., & AAAI, D. S. Deep Reinforcement Learning with Double Q-Learning. Aaai.org, 2016.  
+Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., et al. Human-level control through deep reinforcement learning. Nature, 52015.  
