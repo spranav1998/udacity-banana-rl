@@ -26,9 +26,9 @@ UnityAgents
 Execution
 Navigate to the top-level project directory udacity-banana-rl/ (which contains this README) and run the following command:
 
-sh
-Copy code
+```
 $ jupyter notebook
+```
 This will open the Jupyter Notebook software and notebook in your browser, enabling you to explore and reproduce the experiments that have been run.
 
 References
