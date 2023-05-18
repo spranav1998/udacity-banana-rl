@@ -8,21 +8,23 @@ The agent receives a reward of +1 for collecting a yellow banana, and a reward o
 
 The agent can perform four discrete actions:
 
-0 - Move forward.
-1 - Move backward.
-2 - Turn left.
-3 - Turn right.
+0 - Move forward.  
+1 - Move backward.  
+2 - Turn left.  
+3 - Turn right.  
 
-The task is episodic. To successfully solve the environment, the agent must achieve an average score of +13 over 100 consecutive episodes.
+The task is episodic. To successfully solve the environment, the agent must achieve an average score of +13.1 over 100 consecutive episodes.
 
 ## Implementation
 Our DQN Agent utilizes a Neural Network with three fully connected layers. PyTorch framework is used for the implementation of this network. We have also incorporated epsilon-greedy strategy for action selection, and a buffer memory of size 10000 is used for experience replay.
 
 To run this project, the following Python libraries are required:
 
-NumPy
-PyTorch
-UnityAgents  
+1. NumPy
+2. PyTorch
+3. UnityAgents  
+
+for futher instruction to setup the vritual enivronment please visit this github link "https://github.com/udacity/Value-based-methods#dependencies"
   
 ## Execution  
 Navigate to the top-level project directory udacity-banana-rl/ (which contains this README) and run the following command:  
